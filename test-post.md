@@ -1,6 +1,7 @@
 ---
 title: test-post
 date: 2025-10-05
+published: false
 categories: [temporary]
 ---
 
@@ -22,4 +23,4 @@ categories: [temporary]
 
 ​
 
-한 마디로 결론 내리면, 융인부에 필요한 사람은 융인부가 필요 없는 사람인 것이다. 
+한 마디로 결론 내리면, 융인부에 필요한 사람은 융인부가 필요 없는 사람인 것이다.
