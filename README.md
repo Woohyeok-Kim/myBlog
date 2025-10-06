@@ -1,7 +1,7 @@
 ---
 title: 이사했어요
 date: 2025-10-05
-published: false
+published: true
 categories: [must-read, temporary]
 ---
 
@@ -15,4 +15,4 @@ categories: [must-read, temporary]
 
 마침 남는 게 시간인 추석 연휴 아니겠나. Claude Sonnet 4.5가 고생해 준 끝에 이 공간이 탄생했다.   
 
-많이 놀러와주길 바란다. 
+많이 놀러와주길 바란다.
