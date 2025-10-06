@@ -2,7 +2,7 @@
 title: Thoughts are closed under media
 date: 2025-10-06
 published: true
-categories: [Linear Algebra, Metaphor]
+categories: [Metaphor, Reflection]
 ---
 
 내가 어떤 생각을 하든 그 생각은 미디어 속에 이미 존재하는 생각이다. 대부분이 그렇다. 
@@ -11,4 +11,4 @@ categories: [Linear Algebra, Metaphor]
 
 우리는 어떤 식으로든 생각할 수 있다. 그리고 그 생각은 미디어에 이미 존재하며, 그 존재 여부가 드러나는 순간 미디어는 우리의 생각을 조각하기 시작한다. 그렇게 조각된 생각도 미디어 안에 존재하고, 그렇게 생각이 강화된다. 
 
-트위터 창업자 잭 도로시는 이렇게 주장한 적 있다. 추천 알고리즘이 역으로 우리를 프로그래밍하고 있다고. 
+트위터 창업자 잭 도로시는 이렇게 주장한 적 있다. 추천 알고리즘이 역으로 우리를 프로그래밍하고 있다고.
