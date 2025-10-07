@@ -1,5 +1,5 @@
 ---
-title: HR manager should read this
+title: Claude said on me
 date: 2025-10-07
 published: true
 categories: [reflection, career]
