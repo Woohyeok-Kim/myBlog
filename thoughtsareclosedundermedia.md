@@ -2,7 +2,7 @@
 title: Thoughts are closed under media
 date: 2025-10-06
 published: true
-categories: [Metaphor, Reflection]
+categories: [metaphor, reflection]
 ---
 
 내가 어떤 생각을 하든 그 생각은 미디어 속에 이미 존재하는 생각이다. 대부분이 그렇다. 
