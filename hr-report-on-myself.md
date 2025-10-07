@@ -2,7 +2,7 @@
 title: HR manager should read this
 date: 2025-10-07
 published: true
-categories: [Reflection, Career]
+categories: [reflection, career]
 ---
 
 # 당신은 누구인가
